@@ -1,0 +1,29 @@
+cuerpo {
+  familia de fuentes: Arial, sans-serif;
+  margen: 0;
+  relleno: 0;
+}
+
+encabezado {
+  color de fondo: #333;
+  color: #fff;
+  relleno: 20px;
+  alineación de texto: centro;
+}
+
+principal {
+  display: flex;
+  dirección de flex: columna;
+  alineación de elementos: centro;
+  relleno: 20px;
+}
+
+título {
+  tamaño de fuente: 36px;
+  margen inferior: 10px;
+}
+
+párrafo {
+  tamaño de fuente: 18px;
+  margen inferior: 20px;
+}
